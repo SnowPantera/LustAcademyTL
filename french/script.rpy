@@ -70,7 +70,7 @@ translate french start_input_2_55620e58:
 translate french start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name "Il s'avère que j'suis naturel !"
+    ch_Name "Il s'avère que j'suis doué !"
 
 # game/script.rpy:793
 translate french start_input_2_e0b7f024:
@@ -82,7 +82,7 @@ translate french start_input_2_e0b7f024:
 translate french start_input_2_0eb03f84:
 
     # ch_Name "I've been applying filters on photos all day..."
-    ch_Name "J'ai appliqué des filtres sur les photos toute la journée..."
+    ch_Name "J'ai appliqué des filtres sur des photos toute la journée..."
 
 # game/script.rpy:800
 translate french start_input_2_86ff8bea:
@@ -142,13 +142,13 @@ translate french start_input_2_f6f68885:
 translate french start_input_2_4d4ef9ab:
 
     # Olivia "You've been in your room all day!"
-    Olivia "T'as resté dans ta chambre toute la journée !"
+    Olivia "T'es resté dans ta chambre toute la journée !"
 
 # game/script.rpy:875
 translate french start_input_2_3c898584:
 
     # Olivia "Or do you think I'm blind?!"
-    Olivia "Tu crois que j'suis aveugle ?!"
+    Olivia "Ou tu crois que j'suis aveugle ?!"
 
 # game/script.rpy:877
 translate french start_input_2_b510ad9f:
@@ -166,13 +166,13 @@ translate french start_input_2_ad8c35fe:
 translate french start_input_2_9a44f10c:
 
     # Olivia "That's what Don was talking about. You're out of control!"
-    Olivia "C'est de cela que parlait Don. Tu te contrôles plus !"
+    Olivia "C'est de cela que parlait Don. Tu es hors de contrôle !"
 
 # game/script.rpy:883
 translate french start_input_2_3a73df72:
 
     # Olivia "Your ingratitude leaves us no choice."
-    Olivia "Ton ingratitude me laisse pas le choix."
+    Olivia "Ton ingratitude ne nous laisse pas le choix."
 
 # game/script.rpy:885
 translate french start_input_2_2a5612ed:
@@ -184,7 +184,7 @@ translate french start_input_2_2a5612ed:
 translate french start_input_2_362faf0b:
 
     # Olivia "...her son would neither study nor work!"
-    Olivia "...que son fils n'étudie et travaille pas !"
+    Olivia "...que son fils n'étudie et n'travaille pas !"
 
 # game/script.rpy:889
 translate french start_input_2_2043c397:
@@ -232,19 +232,19 @@ translate french start_input_2_4682ac22:
 translate french start_input_2_6eb4f2dc:
 
     # Olivia "You should have thought of that before!"
-    Olivia "T'aurais dû y penser avant !"
+    Olivia "Tu aurais dû y penser avant !"
 
 # game/script.rpy:905
 translate french start_input_2_245150b8:
 
     # Olivia "Sport is always a risk."
-    Olivia "Le sport sera toujours un risque."
+    Olivia "Le sport comporte toujours un risque."
 
 # game/script.rpy:907
 translate french start_input_2_5783fa11:
 
     # Olivia "You should've done less loafing and studied more. Like Ashley!"
-    Olivia "T'aurais dû moins flâner et étudier plus. Comme Ashley !"
+    Olivia "Tu aurais dû moins flâner et étudier plus. Comme Ashley !"
 
 # game/script.rpy:909
 translate french start_input_2_aedee487:
@@ -256,7 +256,7 @@ translate french start_input_2_aedee487:
 translate french start_input_2_036404a6:
 
     # Olivia "How do you plan to get an education?"
-    Olivia "T'as un plan pour continuer ta formation ?"
+    Olivia "Tu as un plan pour continuer ta formation ?"
 
 # game/script.rpy:913
 translate french start_input_2_b1e52819:
@@ -274,7 +274,7 @@ translate french start_input_2_2aa9b9d5:
 translate french start_input_2_b33dc905:
 
     # Olivia "I see how hard you’re \"working\"!"
-    Olivia "J'vois a quel point t'y \"travailles\"!"
+    Olivia "Je vois à quel point t'y \"travailles\"!"
 
 # game/script.rpy:919
 translate french start_input_2_691c3787:
@@ -454,7 +454,7 @@ translate french start_input_2_a889e973:
 translate french start_input_2_419bb65f:
 
     # Olivia "You're under my roof."
-    Olivia "T'es sous mon toit"
+    Olivia "Tu es sous mon toit."
 
 # game/script.rpy:979
 translate french start_input_2_b59257ff:
@@ -466,7 +466,7 @@ translate french start_input_2_b59257ff:
 translate french start_input_2_0c3ee8a6:
 
     # Olivia "You don't like our offer?"
-    Olivia "Tu n'aimes pas mon offre ?"
+    Olivia "Tu n'aimes pas notre offre ?"
 
 # game/script.rpy:983
 translate french start_input_2_143d02b4:
@@ -478,7 +478,7 @@ translate french start_input_2_143d02b4:
 translate french start_input_2_82ed18d6:
 
     # Olivia "Or do you only have the courage to bicker with me?"
-    Olivia "Ou t'as le courage de te chamailler avec moi seulement ?"
+    Olivia "Ou t'as seulement le courage de te chamailler avec moi ?"
 
 # game/script.rpy:987
 translate french start_input_2_b8f6f104:
@@ -674,7 +674,7 @@ translate french strings:
 
     # game/script.rpy:144
     old "Outside"
-    new "Dehors"
+    new "Extérieur"
 
     # game/script.rpy:146
     old "Upstairs"
@@ -814,11 +814,11 @@ translate french strings:
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "Notez que notre jeu propose des scènes LGBTQ+. Si vous n'êtes pas du tout intéressé par ce genre de choses, vous pouvez activer cette option"
+    new "Notez que notre jeu propose des scènes LGBTQ+. Si vous n'êtes pas du tout intéressé par ce genre de choses, vous pouvez mettre cette option"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "Désactiver (vous pouvez toujours l'activer plus tard, dans les paramètres). Laissez cette option activée si vous êtes seulement"
+    new "Inactive (vous pouvez toujours l'activer plus tard, dans les paramètres). Laissez cette option activée si vous êtes seulement"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
@@ -826,7 +826,7 @@ translate french strings:
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new "fois il y a une chance de rencontrer de telles interactions."
+    new "fois qu'il y a une chance de rencontrer de telles interactions."
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
