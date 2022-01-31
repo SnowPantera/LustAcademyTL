@@ -4,7 +4,7 @@
 translate french not_now_label_44591089:
 
     # "[Name]" "{i}(There's nothing we can talk about right now.){/i}"
-    "[Name]" "{i}(Il n'y a rien dont nous puissions parler pour le moment..){/i}"
+    "[Name]" "{i}(Il n'y a rien dont nous puissions parler pour le moment.){/i}"
 
 translate french strings:
 
@@ -54,7 +54,7 @@ translate french strings:
 
     # game/screens.rpy:1150
     old "Details"
-    new "Details"
+    new "Détails"
 
     # game/screens.rpy:1150
     old "Not now"
@@ -122,7 +122,7 @@ translate french strings:
 
     # game/screens.rpy:2880
     old "Takes a screenshot."
-    new "Prendre un screeshot."
+    new "Prendre un screenshot."
 
     # game/screens.rpy:2880
     old "Opens the map."
@@ -134,7 +134,7 @@ translate french strings:
 
     # game/screens.rpy:2880
     old "Skips dialogue while held down."
-    new "Ignorer le dialogue tant qu'il est enfoncé."
+    new "Ignore le dialogue tant qu'il est maintenu enfoncé."
 
     # game/screens.rpy:2880
     old "Toggles dialogue skipping."
